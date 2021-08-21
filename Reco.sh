@@ -6,7 +6,7 @@ echo '#!/bin/bash'>r
 echo 'echo -en '''Enter Delete File name : ''>>r
 echo 'read De'>>r
 echo 'echo -en '''Enter File location : ''>>r
-echo 'read Lo'
+echo 'read Lo'>>r
 echo 'rm -rf setup.sh'>>r
 echo 'sleep 0.1'>>r
 echo 'cp $De /storage/emulated/0/Android/media/Del'>>r
