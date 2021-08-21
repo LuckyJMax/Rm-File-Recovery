@@ -1,6 +1,7 @@
 #!/bin/bash
 mkdir Del
-mv Del /sdcard/Android/madia
 mkdir recoverfile
+termux-setup-storage
+mv Del /storage/emulated/0/Android/madia
 clear
 bash Reco.sh
