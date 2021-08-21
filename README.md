@@ -51,4 +51,13 @@ $ ``cd Rm-File-Recovery``
 $ ``bash reco.sh``
 
 
+$ ``cd Rm-File-Recovery``
+
+
+$ ``cd recoverfile``
+
+
+!!!!!!!!!!Please don't copy my tool!!!!!!!!!!
+
+
 
