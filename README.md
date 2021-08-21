@@ -38,8 +38,8 @@ $ type ``r`` and Enter
 [+] Mandatory
 
 
-File recovery can only be done by installing and deleting files
-
+•File recovery can only be done by installing and deleting files
+•You need to delete another file or directory by typing this ``r`` letter
 
 [+] File recovery
 
