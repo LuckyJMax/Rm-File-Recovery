@@ -5,14 +5,16 @@ touch vi r
 echo '#!/bin/bash'>r
 echo 'echo -en '''Enter Delete File name : ''>>r
 echo 'read De'>>r
+echo 'echo -en '''Enter File location : ''>>r
+echo 'read Lo'
 echo 'rm -rf setup.sh'>>r
 echo 'sleep 0.1'>>r
-echo 'cp $De /sdcard/Android/media/Del'>>r
+echo 'cp $De /storage/emulated/0/Android/media/Del'>>r
+echo 'cd'>>r
+echo 'cd ../$Lo'>>r
 echo 'rm -rf $De'>>r
-^[
-:wq
 }
+chmod 777 r
 cd
 sleep 2
-chmod 777 r
 clear
