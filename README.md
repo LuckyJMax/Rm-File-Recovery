@@ -14,7 +14,7 @@ $ ``pkg upgrade``
 $ ``pkg install git``
 
 
-$ ``git clone https://github.com/LuckyJMax/Rm-File-Recovery.git``
+$ ``git clone https://github.com/KevinMark-MM/Rm-File-Recovery.git``
 
 
 [+] Tool setup
